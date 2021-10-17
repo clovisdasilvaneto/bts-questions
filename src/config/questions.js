@@ -20,7 +20,7 @@ const questions = {
     answer: "2019",
   },
   vi: {
-    title: "Como o Tae assina sua obras de arte/fotografias?",
+    title: "Como o Tae assina suas obras de arte/fotografias?",
     answer: "vante",
   },
   jungkook: {
