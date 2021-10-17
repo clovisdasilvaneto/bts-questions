@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b1811ba.chunk.css",
+    "main.js": "/static/js/main.0980ee31.chunk.js",
+    "main.js.map": "/static/js/main.0980ee31.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5a19d4ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5a19d4ca.js.map",
+    "static/js/2.b6899c49.chunk.js": "/static/js/2.b6899c49.chunk.js",
+    "static/js/2.b6899c49.chunk.js.map": "/static/js/2.b6899c49.chunk.js.map",
+    "static/js/3.c303f6f1.chunk.js": "/static/js/3.c303f6f1.chunk.js",
+    "static/js/3.c303f6f1.chunk.js.map": "/static/js/3.c303f6f1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5b1811ba.chunk.css.map": "/static/css/main.5b1811ba.chunk.css.map",
+    "static/js/2.b6899c49.chunk.js.LICENSE.txt": "/static/js/2.b6899c49.chunk.js.LICENSE.txt",
+    "static/media/ingresso.974b9a9f.pdf": "/static/media/ingresso.974b9a9f.pdf",
+    "static/media/jh.7a5ce776.jpeg": "/static/media/jh.7a5ce776.jpeg",
+    "static/media/jimin.4a8af232.jpeg": "/static/media/jimin.4a8af232.jpeg",
+    "static/media/jin.0b573039.jpeg": "/static/media/jin.0b573039.jpeg",
+    "static/media/jk.1809d423.jpeg": "/static/media/jk.1809d423.jpeg",
+    "static/media/rm.e6a82807.jpeg": "/static/media/rm.e6a82807.jpeg",
+    "static/media/suga.74d90f96.jpeg": "/static/media/suga.74d90f96.jpeg",
+    "static/media/vi.207836cb.jpeg": "/static/media/vi.207836cb.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a19d4ca.js",
+    "static/js/2.b6899c49.chunk.js",
+    "static/css/main.5b1811ba.chunk.css",
+    "static/js/main.0980ee31.chunk.js"
+  ]
+}
