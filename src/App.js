@@ -1,10 +1,25 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence, MotionConfig } from "framer-motion";
 
 import Profile from "./containers/Profile";
 import Question from "./containers/Question";
 
+const setViewPort = () => {
+  const vh = window.innerHeight * 0.01;
+  // Set the value in the --vh custom property to the root of the document
+  document.documentElement.style.setProperty("--vh", `${vh}px`);
+};
+
 function App() {
+  useEffect(() => {
+    setViewPort();
+    window.addEventListener("resize", setViewPort);
+
+    return () => {
+      window.removeEventListener("resize", setViewPort);
+    };
+  }, []);
+
   const [profile, setProfile] = useState();
 
   const handleProfileSelected = (profile) => () => setProfile(profile);
