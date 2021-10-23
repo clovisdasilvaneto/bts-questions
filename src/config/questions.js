@@ -4,8 +4,8 @@ const questions = {
     answer: "mono",
   },
   jin: {
-    title: "Qual o nome da esposa do Jin?",
-    answer: "fau",
+    title: "Jin é o worldwide…",
+    answer: "handsome",
   },
   suga: {
     title: "Qual a fruta preferida do Suga?",
